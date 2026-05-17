@@ -1,4 +1,4 @@
-#🚀 codesaga day 22
+## codesaga day 22 of my codesaga journey
 
 ## 📘 Topic:
 - range( ) function
@@ -16,4 +16,5 @@
  - see day22_challenges.py
 ---
 ## Status:
-Completed day 22 successfully✅
+- Completed day 22 successfully✅
+- see challenges and practice
